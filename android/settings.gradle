@@ -1,0 +1,3 @@
+rootProject.name = 'movie_upeer_1383'
+
+include ':app'
